@@ -60,7 +60,7 @@ Para reinstalar é obrigatório o arquivo .ini
 1. Acessar www.geolicenses.com (fiz em PHP mas descontinuei -- caso queira o código me envia um email)
    2. Logon
    3. Existem Três opções:
-      1. Representantes (já tem cadastrado Panorama)
+      1. Representantes 
       2. Clientes (clientes de um representante [ou seja: pra quem aquele representante vendeu linceça])
       3. Licenças (cadastro de licenças de produção e trial)
    4. Para criar uma licença: 
