@@ -1,0 +1,8 @@
+# Ignorar
+Udyat/bin
+<<<<<<< HEAD
+Udyat/obj
+.vs
+=======
+Udyat/obj
+>>>>>>> 88f1c43f359aa6e2568649feb091d1c5faac8d0d
