@@ -1,5 +1,5 @@
 # udyat
-Udyat is a simple command line system that after installed will take pictures from all monitor on computer 
+Udyat is a simple command line system that will take pictures from all monitors on computer 
 
 # Explanation (.ini file)
 
